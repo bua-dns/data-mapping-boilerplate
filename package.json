@@ -1,0 +1,13 @@
+{
+  "name": "boilderplate-golang-node-mapper",
+  "version": "1.0.0",
+  "description": "Alles in dem Ordner /golang funktioniert autonom auf Basis eines Executables, das hier nur genutzt, nicht weiterentwickelt wird.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
